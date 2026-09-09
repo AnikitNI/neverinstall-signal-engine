@@ -1,3 +1,4 @@
-openai
-python-dotenv
-pandas
+openai==3.10.0
+python-dotenv==1.2.3
+pandas==3.0.5
+pytest==9.1.1
