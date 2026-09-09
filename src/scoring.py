@@ -638,7 +638,7 @@ def get_gtm_motion(bucket):
         "CUSTOMER": "Direct outbound",
         "PARTNER": "Partner outreach",
         "ECOSYSTEM": "Ecosystem / strategic outreach",
-        "LOW_FIT": "Do not prioritize",
+        "LOW_FIT": "Manual review",
         "UNKNOWN": "Manual review",
         "ERROR": "Manual review",
     }
